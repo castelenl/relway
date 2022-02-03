@@ -2,7 +2,7 @@
 
 # configs
 AUUID=748a6ec7-4003-4315-b479-b0a08f17d772
-CADDYIndexPage=https://raw.githubusercontent.com/loruki-website/archive/master.zip
+CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
